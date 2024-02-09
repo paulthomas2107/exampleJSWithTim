@@ -1,0 +1,21 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+#button_green {
+  background-color: green;
+}
+
+#button_red {
+  background-color: red;
+}
+
+#button_blue {
+  background-color: blue;
+}
+
+button {
+  border-radius: 5px;
+  width: 100px;
+  height: 40px;
+}
